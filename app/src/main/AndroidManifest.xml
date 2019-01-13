@@ -20,14 +20,13 @@
         </activity>
         <activity android:name=".New_Record">
         </activity>
-        <activity android:name=".Existing">
-        </activity>
         <activity android:name=".Existing_Record">
         </activity>
         <activity android:name=".Search_Records">
         </activity>
         <activity android:name=".Guidlines">
         </activity>
+        <meta-data android:name="preloaded_fonts" android:resource="@array/preloaded_fonts"/>
     </application>
 
 </manifest>
